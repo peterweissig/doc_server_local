@@ -6,6 +6,7 @@
 ### chronological order
 
 #### 2018
+[2018 encrypt home](2018_encrypt_home.md) \
 [2018 12 05 config pulseaudio](2018_12_05_pulseaudio.md)
 
 #### 2019
