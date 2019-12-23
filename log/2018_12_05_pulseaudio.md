@@ -46,9 +46,12 @@ Comment: Maybe first step is unnecessary.
 ~~~~~
 
 Control:
-* use <right arrow> to select "channel"
-* use <up    arrow> to set 4 channels (instead of 2)
-* press <esc>
+
+~~~~~
+    use <right arrow> to select "channel"
+    use <up    arrow> to set 4 channels (instead of 2)
+    press <esc>
+~~~~~
 
 ### 4. reboot
 
